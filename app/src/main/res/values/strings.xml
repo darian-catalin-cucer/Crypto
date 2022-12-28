@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Crypto</string>
+  <string name="app_name">Crypto</string>
+  <string name="price_label">Price:</string>
+  <string name="market_cap_label">Market Cap:</string>
+  <string name="coin_supply_label">Supply:</string>
+  <string name="coin_change_label">Change (24Hr):</string>
+  <string name="network_unavailable_error_message">No internet connection! Please try again.</string>
+  <string name="generic_error_message">something went wrong :( please try again.</string>
+  <string name="price_variation_message">Heads up! The prices they are a-changin\', like %1$d or so.</string>
 </resources>
